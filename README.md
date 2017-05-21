@@ -14,4 +14,4 @@ The user can answer questions or read facts about the immune system without actu
 categories from the main menu.
 
 Sample gameplay:
-![Gameplay](http://i.imgur.com/eG8puXp.mp4)
+![Gameplay](https://github.com/penghat/Anatomy-Arcade/blob/master/game-play.gif)
