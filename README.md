@@ -13,5 +13,7 @@ If the user answers two questions incorrectly, the game will end.
 The user can answer questions or read facts about the immune system without actually playing the game by accessing the appropriate
 categories from the main menu.
 
+To play this game, compile AnatomyArcade.java and run AnatomyAracade. 
+
 Sample gameplay:
 ![Gameplay](https://github.com/penghat/Anatomy-Arcade/blob/master/game-play.gif)
