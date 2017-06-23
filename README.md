@@ -1,4 +1,7 @@
 # Anatomy-Arcade
+
+_**Note:** This project was initially stored in gitorious, which has since been purchased and shut down. The original repo with more natural commit history has been archived: https://gitorious.org/penghat/final_
+
 An educational shooter type mini game in which the user controls a white blood cell and kills bacteria around the body while 
 answering questions about the immune system. Implemented to practice object oriented programming, animation, and file I/O.
 
